@@ -45,6 +45,12 @@
            </tr>
        </thead>
        <tbody>
+          <tr>
+               <td>Microsoft Certified: Security, Compliance, and Identity Fundamentals</td>
+               <td>507CV9-58729B</td>
+               <td>Nov 18, 2024</td>
+               <td>N/A</td>
+           </tr>
            <tr>
                <td>Microsoft Certified: Power Platform Fundamentals</td>
                <td>I35445-8DB412</td>
