@@ -25,7 +25,7 @@
 ### My GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSerikawa&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSerikawa&layout=compact&langs_count=7&theme=holi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSerikawa&layout=compact&theme=holi"/>
   <img height="300em" src="https://ssr-contributions-svg.vercel.app/_/FelipeSerikawa?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=2&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=0_0&format=svg&weeks=20&theme=blue"/>
 </div>
 
