@@ -5,7 +5,7 @@
 :earth_americas: São Paulo, Brazil</br>
 :astronaut: Aerospace Engineering Student at Universidade Federal do ABC (São Bernardo do Campo - São Paulo, Brazil)</br>
 :man_technologist: Science & Technology Student at Universidade Federal do ABC (São Bernardo do Campo - São Paulo, Brazil)</br>
-:computer: Junior BackEnd Developer at Avanade Inc.</br>
+:computer: BackEnd Developer at Avanade Inc.</br>
 <div align="center">
 <a href="https://www.linkedin.com/in/felipeserikawa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:fe.sadao17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></br> 
