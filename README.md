@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=54AEFF&animation=twinkling&textBg=false&reversal=false"/></br>
 ### 	:wink: Hi, I'm Felipe!
 
-:birthday: 21 years old</br>
+:birthday: 22 years old</br>
 :earth_americas: São Paulo, Brazil</br>
 :astronaut: Aerospace Engineering Student at Universidade Federal do ABC (São Bernardo do Campo - São Paulo, Brazil)</br>
 :man_technologist: Science & Technology Student at Universidade Federal do ABC (São Bernardo do Campo - São Paulo, Brazil)</br>
@@ -45,6 +45,12 @@
            </tr>
        </thead>
        <tbody>
+          <tr>
+               <td>GitHub Foundations</td>
+               <td>A38AF7-C25XFE</td>
+               <td>Oct 04, 2025</td>
+               <td>Oct 05, 2027</td>
+           </tr>
           <tr>
                <td>Microsoft Certified: Security, Compliance, and Identity Fundamentals</td>
                <td>507CV9-58729B</td>
